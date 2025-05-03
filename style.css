@@ -25,7 +25,7 @@
 /* 3. Apply Roboto Condensed to main text and set local background image */
 body {
   font-family: 'Roboto Condensed', sans-serif;
-  background: url('images/siobhan-flannery-CT1dFbmtY2Y-unsplash.jpg') center/cover no-repeat fixed;
+  background: url('siobhan-flannery-CT1dFbmtY2Y-unsplash.jpg') center/cover no-repeat fixed;
   min-height: 100vh;
 }
 
