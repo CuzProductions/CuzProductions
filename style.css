@@ -38,7 +38,7 @@
 /* 3. Apply Milky Vintage to main text and set local background image */
 body {
   font-family: 'Milky Vintage', sans-serif;
-  background: url('siobhan-flannery-CT1dFbmtY2Y-unsplash.jpg') center/cover no-repeat fixed;
+  background: ('siobhan-flannery-CT1dFbmtY2Y-unsplash.jpg') center/cover no-repeat fixed;
   min-height: 100vh;
 }
 
