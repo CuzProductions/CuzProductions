@@ -150,6 +150,17 @@ footer small {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+.instagram-link {
+  color: white;
+  font-size: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.instagram-link:hover {
+  color: white;
+  transform: scale(1.2);
+}
+
 /* Override Bootstrap primary button color */
 .btn-primary {
   background-color: #FD5F0D !important;
